@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.bak
+.vscode/
+.pio/
+.DS_Store
+*.elf
+*.bin
+build/
